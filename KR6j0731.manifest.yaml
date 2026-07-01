@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6j0731/v1
+canonical_location: https://kanripo.org/bkk/KR6j0731/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 十一面神呪心經義疏
+  identifiers:
+    alt_id:
+    - T39n1802
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1802.xml
+    old_id: T39n1802
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 原
+  label: 原
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0731_000.yaml, hash: 'sha256:a1b4324f0895e04baff83e49df72a9041d49ec7f8e235a1b4d18310a9687846d'}
+  - {seq: 1, filename: KR6j0731_001.yaml, hash: 'sha256:08edb1e0626e6279e185f86a0525712a425049b09d7bd02a71169590f8081ef8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0731_001.markers.yaml, hash: 'sha256:4b56a23fff0d0f2328cb5b469e2cb02bbf3fe3af2bef8983cc684c78a687501d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0731_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10775
+  label: 十一面神呪心經義疏
+  type: juan
+  level: 1
+hash: sha256:200dfe2bcf2c5ecd870af3d093e63068ca8c94614e20702ddc200acf5d0a1de7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

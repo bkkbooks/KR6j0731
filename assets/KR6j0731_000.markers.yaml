@@ -1,0 +1,30 @@
+canonical_identifier: bkk:krp/KR6j0731/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6j0731_T_000-1004b07, ed: T, 'n': 1004b07}
+  - {type: line-break, offset: 0, content: '', id: KR6j0731_T_000-1004b08, ed: T, 'n': 1004b08}
+  - {type: line-break, offset: 0, content: '', id: KR6j0731_T_000-1004b09, ed: T, 'n': 1004b09}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6j0731_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6j0731_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6j0731_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6j0731_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '8', id: KR6j0731_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '0', id: KR6j0731_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '2', id: KR6j0731_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: '[', id: KR6j0731_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: c, id: KR6j0731_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: f, id: KR6j0731_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6j0731_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6j0731_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: o, id: KR6j0731_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: ., id: KR6j0731_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: '1', id: KR6j0731_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '0', id: KR6j0731_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '7', id: KR6j0731_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '1', id: KR6j0731_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6j0731_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6j0731_T_000-1004b10, ed: T, 'n': 1004b10}
+  body: []
+  back: []
+hash: sha256:e9de9b5c9bae54534aeb9c462ba8a904435331d881189740058e777948f46159
