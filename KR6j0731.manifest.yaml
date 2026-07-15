@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0731/v1
 canonical_location: https://kanripo.org/bkk/KR6j0731/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 十一面神呪心經義疏
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0731_000.yaml, hash: 'sha256:a1b4324f0895e04baff83e49df72a9041d49ec7f8e235a1b4d18310a9687846d'}
-  - {seq: 1, filename: KR6j0731_001.yaml, hash: 'sha256:fb5db5883f465156a043e9beba4906ab539731caae3ebaef034b5a6d35fe484d'}
+  - {seq: 1, filename: KR6j0731_001.yaml, hash: 'sha256:b21b1aae57fca8e855650a113e1273124d4103d6a9a1f6501d2cf5f8a8eac1cb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0731_000.markers.yaml, hash: 'sha256:e9de9b5c9bae54534aeb9c462ba8a904435331d881189740058e777948f46159'}
-  - {seq: 1, role: markers, filename: assets/KR6j0731_001.markers.yaml, hash: 'sha256:47f189d990ae3f405c8ed70381c473edb6eb34513ee768e853474d6683e49f97'}
+  - {seq: 1, role: markers, filename: assets/KR6j0731_001.markers.yaml, hash: 'sha256:a7b21bb6154371bb45e2e407b3c1fe2171c16209fa89c286272724f0aa159285'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 十一面神呪心經義疏
   type: juan
   level: 1
-hash: sha256:5383d2b20d63b45daeab8476e17e3704783a9ea5e4f2c8e7935c8d1c8dbca6c9
+hash: sha256:f7300b5886c429f813f3142562b425b90c54307af1b6a131ee14fce84af709bd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
